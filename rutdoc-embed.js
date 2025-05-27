@@ -1,0 +1,1 @@
+document.getElementById('rutdoc-widget').innerText = 'Ask RutDoc™...';
